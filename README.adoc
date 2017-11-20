@@ -1,0 +1,33 @@
+How to Read These Pages
+=======================
+Jouke Witteveen
+
+.Short answer:
+Read the page on `Style'.
+Approach the table as three separate rows.
+The most important information is contained in the first row and the least important information is contained in the last row.
+
+.Long answer:
+An objective analysis of kayaking technique requires an understanding of the physics involved.
+Physics, however, can be taught but not coached.
+Coaching technique means coaching a style.
+These pages contain a description of the physics of kayaking and a matching description of a style.
+Both pages are organized in the same way, so that the information in a given cell on one page is related to the information in the same cell on the other page.
+
+The first row of cells identifies key points where a force is transferred.
+Forward and backward directed forces that may be applied during the stroke are then classified as useful or not.
+The second row adds to this that sideward and downward directed movement of the blade through the water can induce forward directed lift forces.
+These lift forces come at the cost of sideward and upward directed drag forces.
+The third row points out that such drag forces need not act on the boat unfavorably.
+In fact, a forward directed force can be maintained on the boat without a resultant force.
+
+Note that the first row thus contains the most important information, while the information in the last row is the least important.
+Many people can improve using principles from the first row; some people would benefit from applying principles from the second row; very few people can put principles from the third row to use.
+
+The point of separating the physics and style facets of technique is to enable a constructive discussion of technique.
+There is no one optimal style for all speeds and circumstances, yet the same physics is used to assess the effectiveness of any style.
+The laws of physics are not open to debate and by founding a style on notions from physics it becomes possible to argue about that style unambiguously.
+
+A little physics goes a long way and while the page on physics is not meant to be light reading, it requires only a small subset of classical mechanics.
+The survey of the physics involved in kayaking is thus focussed, but as a consequence it is also incomplete.
+Among other things, it does not include biomechanical considerations or attention to the impact of differences in boat or blade design.
